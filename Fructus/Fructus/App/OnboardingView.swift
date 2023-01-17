@@ -19,7 +19,7 @@ struct OnboardingView: View {
             
         }//: TAB
         .tabViewStyle(PageTabViewStyle())
-        .padding(.vertical, 20)
+        .padding(.vertical, 25)
         .indexViewStyle(.page(backgroundDisplayMode: .always))
         
     }
